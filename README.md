@@ -1,4 +1,4 @@
-#Version Control
+# Version Control
 
 **Important:** You should complete this lab with the help of a partner. In this handout, we will name `L` the *Leader* role and `H` the *Helper* role. The two partners should do the exercise twice to take alternatively the *Leader* and *Helper* roles. The two partners should work on separated computers as if they were working remotely on the same project.
 
