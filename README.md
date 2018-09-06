@@ -59,7 +59,7 @@ At this stage, both `H` and `L` should have the same version of the code on thei
 
 13. As `L`, after trying to push your changes to Github, `git` tells you that a more recent commit has been pushed first and asks you to pull the updated version from Github. Now, `git` complains that there are conflicts that need to be solved manually. Read the conflict report and edit all concerned files to solve these conflicts. Make sure that your code compile and run. Finally, push these changes  Github. 
 
-14. As `L`, pull the new version from Github.
+14. As `H`, pull the new version from Github.
 
 # Create a .gitignore to avoid pushing generated files
 
